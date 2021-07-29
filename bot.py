@@ -2,7 +2,7 @@ import time
 import telebot
 import pyTelegramBotAPI
 
-TOKEN = "AAELTxSbr3GJHZma12Div9tb9JQDzpeghkY"
+TOKEN = "1938167379:AAELTxSbr3GJHZma12Div9tb9JQDzpeghkY"
 bot = telebot.TeleBot(TOKEN)
 
 def findat(msg):
